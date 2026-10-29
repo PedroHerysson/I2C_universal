@@ -1,3 +1,0 @@
-../Core/Src/mlx90614.c:17:19:MLX90614_Init	16	static
-../Core/Src/mlx90614.c:28:19:MLX90614_ReadTemperature	40	static
-../Core/Src/mlx90614.c:53:19:MLX90614_ReadAndPrint	88	static
