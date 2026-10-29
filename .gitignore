@@ -1,0 +1,22 @@
+# Ficheiros e pastas de compilação (Build artifacts)
+Debug/
+Release/
+*.o
+*.su
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# Ficheiros temporários e de configuração do STM32CubeIDE / Eclipse
+.settings/
+*.launch
+.metadata/
+*.tmp
+*.bak
+
+# Ficheiros do sistema operativo
+.DS_Store
+Thumbs.db
